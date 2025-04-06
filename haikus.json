@@ -1,22 +1,27 @@
 [
     {
-        "text": "rainRAIN in seattle,\ndon't forget an umbrella,\nor it will be gloom",
+        "text": "rain in japan,\ndon't forget an umbrella,\nor it will be gloom",
+        "textja": "日本の雨\n傘を忘れずに\n憂鬱だよ",
         "image": "puddle_jumper_octodex.jpg"
     },
     {
         "text": "my tunes on repeat,\nit's time for me to dj,\nhave you heard this one?",
+        "textja": "リピート再生\nDJの時間だ\n聴いたかな？",
         "image": "vinyltocat.jpeg"
     },
     {
         "text": "snow is still falling,\nis it time for apres yet?\nlet's do one more run",
+        "textja": "雪は降って\nアプレスキーの時？\nもう一本",
         "image": "snowtocat_final.jpg"
     },
     {
         "text": "beep boop bop beep boop,\ni am robot octocat,\ni think there's a bug",
+        "textja": "ビープ ブープ ボップ\nロボット猫です\nバグがある",
         "image": "Robotocat.jpeg"
     },
     {
         "text": "same plot as before,\nso why is it still awesome?\ni think it's the hat",
+        "textja": "同じ展開\nなぜまだ素晴らしい？\n帽子かな",
         "image": "linktocat.jpg"
     }
 ]
